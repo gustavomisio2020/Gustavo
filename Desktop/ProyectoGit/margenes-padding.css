@@ -1,0 +1,19 @@
+.co{
+    color: burlywood;
+    font-size: 60;
+    background: chartreuse;
+}
+p{
+    /* margin-top: 50; margen arriba
+    margin-bottom: 50;    margen abajo
+    */ 
+    margin: 50;
+    /* margin:50 margina los cuatro lados arriba aba der izq */
+}
+.co2{
+
+    color: crimson;
+    background: cyan;
+    /* margin: 100 30 30 100; aca da arriba 100
+    derecha 30 abajo 30 isq 100; */
+}
